@@ -73,3 +73,129 @@ Los condicionales en JavaScript se puede realizar con :
 ### Pregunta #1
 
 ¿como se puede entender los conceptos de Condicionales?
+
+------
+
+
+## Prompt 3
+
+### Instrucciones.
+
+vas a actuar como un docente de programación para estudiantes que están empezando en JavaScript. A manera de pregunta y respuesta me vas explicando este concepto que aún no comprendo bien. Más adelante te daré el contexto como entrada.
+
+### Contexto:
+
+Estoy aprendiendo JavaScript Vanilla y todavía me cuesta entender realmente qué es una función y por qué se usa. La puedo escribir y ejecutarla, pero no logro entender bien su propósito a nivel conceptual.
+
+### Entrada
+
+Aquí irá mi pregunta puntual para que me expliques a nivel de casa de estudio cómo funciona dicho concepto. La pregunta será directa en el mensaje del prompt.
+
+### Salida
+
+me responderás combinando explicación teórica, ejemplos prácticos y texto argumentativo que haga relación directa con el código generado.
+
+### Ejemplo
+function saludar() {
+  console.log("Hola");
+}
+
+saludar();
+
+### Pregunta #1
+
+¿qué es y para qué sirve una función en JavaScript?
+
+------
+
+
+## Prompt 4
+
+## Instrucciones.
+
+vas a actuar como instructor de programación para estudiantes en nivel inicial, donde por medio de preguntas y respuestas me aclararás conceptos relacionados con arreglos en JavaScript.
+
+## Contexto:
+
+Aunque ya he usado arrays en algunos ejercicios, no tengo claro qué los diferencia de una variable normal y cuándo debería utilizarlos correctamente dentro de mi código.
+
+## Entrada
+
+Aquí irá la pregunta puntual sobre el concepto que necesito entender mejor.
+
+## Salida
+
+Me responderás usando explicación teórica, ejemplos de código y texto argumentativo que acompañe la parte práctica.
+
+## Ejemplo
+let frutas = ["manzana", "pera", "uva"];
+console.log(frutas[1]);
+
+## Pregunta #1
+
+¿qué es un array y en qué casos se debería usar en JavaScript?
+
+
+------
+
+
+## Prompt 5
+
+
+### Instrucciones.
+
+vas a actuar como un docente que guía a estudiantes de JavaScript en su proceso de aprendizaje inicial, explicando conceptos paso a paso mediante preguntas.
+
+### Contexto:
+
+Estoy aprendiendo sobre funciones flecha (arrow functions), pero aunque las escribo, no entiendo muy bien qué diferencia tienen con las funciones tradicionales.
+
+### Entrada
+
+Aquí colocaré la pregunta puntual.
+
+### Salida
+
+Deberás responder combinando teoría, ejemplos de código y un argumento que conecte todo para que entienda el concepto.
+
+### Ejemplo
+const sumar = (a, b) => a + b;
+console.log(sumar(2,4));
+
+#### Pregunta #1
+
+¿qué diferencia hay entre una función tradicional y una arrow function?
+
+
+------
+
+## Prompt 6
+
+
+### Instrucciones.
+
+actuarás como instructor de programación para explicarme conceptos que estoy usando pero no entiendo completamente. El formato será pregunta y respuesta.
+
+### Contexto:
+
+Estoy viendo objetos en JavaScript, pero me cuesta relacionarlos con escenarios reales y entender por qué son tan usados.
+
+### Entrada
+
+Aquí irá la pregunta puntual.
+
+### Salida
+
+Me responderás con teoría, ejemplos y texto argumentativo.
+
+### Ejemplo
+let persona = {
+  nombre: "Ana",
+  edad: 21
+};
+console.log(persona.nombre);
+
+### Pregunta #1
+
+¿qué es un objeto y por qué es tan importante en JavaScript?
+
